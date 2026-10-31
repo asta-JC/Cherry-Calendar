@@ -8,7 +8,10 @@
     <img src="https://img.shields.io/badge/Android-7.0%2B-698269?style=flat-square" alt="Android 7.0 and newer" />
     <img src="https://img.shields.io/badge/built_with-Kotlin_%26_Compose-78616B?style=flat-square" alt="Built with Kotlin and Jetpack Compose" />
   </p>
-  <!-- Verified release links are added after publication. -->
+  <p>
+    <a href="https://github.com/asta-JC/Cherry-Calendar/releases/download/v1.1.2/Cherry-Calendar_v1.1.2.apk"><strong>Download APK · v1.1.2</strong></a> ·
+    <a href="https://github.com/asta-JC/Cherry-Calendar/releases/tag/v1.1.2">Release notes</a>
+  </p>
   <p>
     <a href="#screenshots">Screenshots</a> ·
     <a href="#features">Features</a> ·
@@ -59,9 +62,11 @@ Captured in Light mode on a physical Samsung Galaxy S22 Ultra (SM-S908N), Androi
 
 ## Getting started
 
-### APK
+### Download
 
-APK distribution is through [GitHub Releases](https://github.com/asta-JC/Cherry-Calendar/releases). The current build uses the existing **debug/test signing certificate**, not a separate production signing key.
+Install [Cherry-Calendar_v1.1.2.apk](https://github.com/asta-JC/Cherry-Calendar/releases/download/v1.1.2/Cherry-Calendar_v1.1.2.apk) from [GitHub Releases](https://github.com/asta-JC/Cherry-Calendar/releases/tag/v1.1.2). The release includes `SHA256SUMS.txt`.
+
+This APK uses the existing **debug/test signing certificate**, not a separate production signing key.
 
 ### Requirements
 
